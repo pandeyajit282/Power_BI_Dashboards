@@ -1,6 +1,6 @@
 # Power_BI_Dashboards
 
 
-![Sales Dashboard](../Sales Dashboard.png)
+![Sales Dashboard](Sales data/Sales Dashboard.png)
 
-![Segmentation Dashboard](../Dashboard.png)
+![Segmentation Dashboard](Segmentation analysis/Dashboard.png)
